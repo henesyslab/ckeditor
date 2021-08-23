@@ -3,7 +3,7 @@
   "version": "0.0.0-development",
   "description": "Um build customizado do CKEditor5 feito a partir do builder online oficial.",
   "author": "Investfy <contato@investfy.com>",
-  "license": "SEE LICENSE IN LICENSE.md",
+  "license": "Proprietary",
   "repository": {
     "type": "git",
     "url": "https://github.com/investfy/ckeditor.git"
