@@ -69,7 +69,7 @@ export default class UploadAdapter {
           cancelUpload = c;
         })
       })
-      .then(response => resolve({ default: response.data.data.file_url }))
+      .then(response => resolve({ default: response.data.data.url }))
       .catch(error => {
         let message = "Something went wrong. Try again later";
 
